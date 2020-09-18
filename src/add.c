@@ -1,5 +1,5 @@
   
-#include "adder.h"
+#include "add.h"
 #include <stdio.h>
 
 int adder(int a, int b)
