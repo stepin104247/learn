@@ -1,8 +1,8 @@
   
-#include "adder.h"
+#include "add.h"
 #include <stdio.h>
 
-int adder(int a, int b)
+int add(int a, int b)
 {
     return (a+b);
 }
