@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include"inc/add.h"
+#include"add.h"
 
 void main()
 {
